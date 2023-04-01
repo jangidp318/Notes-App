@@ -1,6 +1,8 @@
 # Notes-App
 This is a notes application with Cloudflare Worker API and Cloudflare KV.
 
+### You can also see the [Demo](https://notes-app-cfw-api.netlify.app/) of the application.
+
 ## Available Scripts
 The Frontend of the project is in `notes-app` 
 
