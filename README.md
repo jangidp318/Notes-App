@@ -35,10 +35,10 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.<br>
 Your app is ready to be deployed!
 
-See the section about [deployment]() for more information.
+See the section about [deployment](https://create-react-app.dev/docs/deployment/) for more information.
 
 ## Learn More
-You can learn more in the [Create React App documentation]().
+You can learn more in the [Create React App documentation](https://create-react-app.dev/docs/getting-started/).
 
-To learn React, check out the [React documentation]().
+To learn React, check out the [React documentation](https://react.dev/).
 
