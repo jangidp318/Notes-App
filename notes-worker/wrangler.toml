@@ -1,0 +1,7 @@
+name = "notes-worker"
+main = "src/index.js"
+compatibility_date = "2023-03-31"
+
+kv_namespaces = [
+  { binding = "NOTES", id = "ab1d758d7fc8488193b9d70603b93aa4" }
+]
